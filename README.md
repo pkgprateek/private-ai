@@ -1,6 +1,6 @@
 # private-ai
 
-Notebooks for Udacity's Secure and Private AI course.
+Notebooks for Udacity's Secure and Private AI course by Facebook.
 
 ## Dependencies
 
